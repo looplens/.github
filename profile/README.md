@@ -25,4 +25,4 @@ We continually strive to innovate and push the boundaries of secure communicatio
 
 Join us in this movement towards a communication landscape that values freedom, security, and privacy. Looplens is not just a new way to connect; it's a commitment to a future where communication is a truly liberating experience for all.
 
-![](imagine-office.png)
+<img src="./imagine-office.png" width="100%">
